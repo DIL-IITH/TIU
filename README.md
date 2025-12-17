@@ -1,4 +1,22 @@
-# The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models (Accepted in CVPR 2025)
+<div align="center">
+      
+# [CVPR 2025] The Illusion of Unlearning: The Unstable Nature of Machine Unlearning in Text-to-Image Diffusion Models
+
+<div align="left">
+
+<div align="center">
+
+###  [Paper Link](https://openaccess.thecvf.com/content/CVPR2025/html/George_The_Illusion_of_Unlearning_The_Unstable_Nature_of_Machine_Unlearning_CVPR_2025_paper.html) <br>
+Illusion Of Unlearning shows that state-of-the-art concept unlearning in text-to-image diffusion models is unstable: erased concepts revive under downstream fine-tuning, and the paper proposes a concept-revival evaluation framework to quantify this failure mode.
+
+</div>
+
+<div align="center">
+  <img
+    src="Teaser.png"
+    alt="Revival Phenomenon"
+  >
+</div>
 
 ## Getting Started
 
@@ -147,6 +165,4 @@ To cite our work you can use the following:
   pages={13393--13402},
   year={2025}
 }
-
-
 ```
